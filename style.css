@@ -1,0 +1,4 @@
+body { font-family: Arial; background:#f5f5f5; }
+#quiz { background:#fff; padding:20px; border-radius:10px; }
+.option { margin:10px 0; }
+button { padding:10px; margin:5px; }
